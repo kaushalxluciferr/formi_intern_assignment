@@ -1,0 +1,136 @@
+{
+  "city": "Bangalore",
+  "branches": [
+    {
+      "name": "Electronic City",
+      "modified_on": "Sun, 8 Sep 2024 1:50 PM",
+      "special_notice": "",
+      "booking_instructions": {
+        "Monday": {
+          "2+1": "Flexible, take till last entry",
+          "3 & Above": "Flexible, take till last entry"
+        },
+        "Tuesday": {
+          "2+1": "Flexible, take till last entry",
+          "3 & Above": "Flexible, take till last entry"
+        },
+        "Wednesday": {
+          "2+1": "Flexible, take till last entry",
+          "3 & Above": "Flexible, take till last entry"
+        },
+        "Thursday": {
+          "2+1": "Flexible, take till last entry",
+          "3 & Above": "Flexible, take till last entry"
+        },
+        "Friday": {
+          "2+1": "Flexible, take till last entry",
+          "3 & Above": "Flexible, take till last entry"
+        },
+        "Saturday": {
+          "2+1": "Flexible, take till last entry",
+          "3 & Above": "Flexible, take till last entry"
+        },
+        "Sunday": {
+          "2+1": "Flexible, take till last entry",
+          "3 & Above": "Flexible, take till last entry"
+        }
+      },
+      "branch_info": {
+        "address": "99, 14th Cross Road, Neeladri Nagar, Electronics City Phase 1, Electronic City, Bengaluru, Karnataka 560100, India",
+        "bar_availability": "No",
+        "valet_parking": "Yes (Self / Chargeable)",
+        "baby_chair": "Yes",
+        "lift_availability": "Yes",
+        "pdr_availability": "No",
+        "pdr_capacity": "No",
+        "pdr_minimum_pax_required": "No",
+        "outlet_numbers": ["7090757126", "7090757059"]
+      },
+      "branch_timings": {
+        "Monday to Friday": {
+          "Lunch": {
+            "opening_time": "12:00 PM",
+            "last_entry_time": "4:00 PM",
+            "closing_time": "5:00 PM"
+          },
+          "Dinner": {
+            "opening_time": "6:30 PM",
+            "last_entry_time": "11:00 PM",
+            "closing_time": "11:55 PM"
+          }
+        },
+        "Saturday": {
+          "Lunch": {
+            "opening_time": "12:00 PM",
+            "last_entry_time": "4:00 PM",
+            "closing_time": "5:00 PM"
+          },
+          "Dinner": {
+            "opening_time": "6:30 PM",
+            "last_entry_time": "11:00 PM",
+            "closing_time": "11:55 PM"
+          }
+        },
+        "Sunday": {
+          "Lunch": {
+            "opening_time": "12:00 PM",
+            "last_entry_time": "4:00 PM",
+            "closing_time": "5:00 PM"
+          },
+          "Dinner": {
+            "opening_time": "6:30 PM",
+            "last_entry_time": "11:00 PM",
+            "closing_time": "11:55 PM"
+          }
+        }
+      },
+      "additional_info": {
+        "complimentary_drinks": "Lunch / Monday to Saturday / 1 Round / Soft drink or Mocktail",
+        "food_festival": "No"
+      },
+      "offers": {
+        "early_bird": "No",
+        "kitty_party": "No",
+        "student_offer": "No",
+        "5+1_buffet": "No",
+        "army_offer": "No",
+        "drinks_offer": "No"
+      },
+      "menu": {
+        "starters": [
+          "Tandoori Platter",
+          "Veg Platter",
+          "Non-veg Platter"
+        ],
+        "main_course": [
+          "Butter Chicken",
+          "Paneer Butter Masala",
+          "Veg Biryani",
+          "Chicken Biryani"
+        ],
+        "desserts": [
+          "Gulab Jamun",
+          "Ice Cream",
+          "Kheer"
+        ]
+      },
+      "pricing": {
+        "lunch": {
+          "weekday": "₹899 per person",
+          "weekend": "₹1199 per person"
+        },
+        "dinner": {
+          "weekday": "₹1199 per person",
+          "weekend": "₹1399 per person"
+        }
+      },
+      "faq": {
+        "parking": "Valet parking available (Self / Chargeable)",
+        "reservations": "Reservations can be made up to 30 days in advance",
+        "cancellation": "Free cancellation up to 24 hours before the booking",
+        "dress_code": "Smart casual",
+        "payment": "We accept all major credit cards and digital payments"
+      }
+    }
+  ]
+}

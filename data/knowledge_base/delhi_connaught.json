@@ -1,0 +1,177 @@
+{
+  "city": "New Delhi",
+  "branches": [
+    {
+      "name": "Connaught Place / CP / cp",
+      "modified_on": "Wed, 11 Dec 2024 3:24 AM",
+      "booking_instructions": {
+        "Monday": {
+          "2+1": {
+            "Lunch Slot-1": "Flexible Take till last entry.",
+            "Lunch Slot-2": "Take till 07.00 pm",
+            "Dinner Slot-1": "Take till last entry.",
+            "Dinner Slot-2": "Take till last entry."
+          },
+          "3 & Above": {
+            "Lunch Slot-1": "Flexible Take till last entry.",
+            "Lunch Slot-2": "Take till 07.00 pm",
+            "Dinner Slot-1": "Take till last entry.",
+            "Dinner Slot-2": "Take till last entry."
+          }
+        },
+        "Tuesday": {
+          "2+1": {
+            "Lunch Slot-1": "Flexible Take till last entry.",
+            "Lunch Slot-2": "Take till 07.00 pm",
+            "Dinner Slot-1": "Take till last entry.",
+            "Dinner Slot-2": "Take till last entry."
+          },
+          "3 & Above": {
+            "Lunch Slot-1": "Flexible Take till last entry.",
+            "Lunch Slot-2": "Take till 07.00 pm",
+            "Dinner Slot-1": "Take till last entry.",
+            "Dinner Slot-2": "Take till last entry."
+          }
+        },
+        "Wednesday": {
+          "2+1": {
+            "Lunch Slot-1": "Flexible Take till last entry.",
+            "Lunch Slot-2": "Take till 07.00 pm",
+            "Dinner Slot-1": "Take till last entry.",
+            "Dinner Slot-2": "Take till last entry."
+          },
+          "3 & Above": {
+            "Lunch Slot-1": "Flexible Take till last entry.",
+            "Lunch Slot-2": "Take till 07.00 pm",
+            "Dinner Slot-1": "Take till last entry.",
+            "Dinner Slot-2": "Take till last entry."
+          }
+        },
+        "Thursday": {
+          "2+1": {
+            "Lunch Slot-1": "Flexible Take till last entry.",
+            "Lunch Slot-2": "Take till 07.00 pm",
+            "Dinner Slot-1": "Take till last entry.",
+            "Dinner Slot-2": "Take till last entry."
+          },
+          "3 & Above": {
+            "Lunch Slot-1": "Flexible Take till last entry.",
+            "Lunch Slot-2": "Take till 07.00 pm",
+            "Dinner Slot-1": "Take till last entry.",
+            "Dinner Slot-2": "Take till last entry."
+          }
+        },
+        "Friday": {
+          "2+1": {
+            "Lunch Slot-1": "Take till 12.30 pm",
+            "Lunch Slot-2": "Take till last entry.",
+            "Dinner Slot-1": "Take till 07.00 pm",
+            "Dinner Slot-2": "Take till last entry."
+          },
+          "3 & Above": {
+            "Lunch Slot-1": "Take till 12.30 pm",
+            "Lunch Slot-2": "Take till last entry.",
+            "Dinner Slot-1": "Take till 07.00 pm",
+            "Dinner Slot-2": "Take till last entry."
+          }
+        },
+        "Saturday": {
+          "2+1": {
+            "Lunch Slot-1": "Take till 12.30 pm",
+            "Lunch Slot-2": "Take till last entry.",
+            "Dinner Slot-1": "Take till 07.00 pm",
+            "Dinner Slot-2": "Take till last entry."
+          },
+          "3 & Above": {
+            "Lunch Slot-1": "Take till 12.30 pm",
+            "Lunch Slot-2": "Take till last entry.",
+            "Dinner Slot-1": "Take till 07.00 pm",
+            "Dinner Slot-2": "Take till last entry."
+          }
+        },
+        "Sunday": {
+          "2+1": {
+            "Lunch Slot-1": "Take till 12.30 pm",
+            "Lunch Slot-2": "Take till last entry.",
+            "Dinner Slot-1": "Take till 07.00 pm",
+            "Dinner Slot-2": "Take till last entry."
+          },
+          "3 & Above": {
+            "Lunch Slot-1": "Take till 12.30 pm",
+            "Lunch Slot-2": "Take till last entry.",
+            "Dinner Slot-1": "Take till 07.00 pm",
+            "Dinner Slot-2": "Take till last entry."
+          }
+        }
+      },
+      "branch_info": {
+        "address": "Munshilal Building, 2nd Floor, N-19, Block N, Connaught Place, New Delhi, Delhi 110001, India",
+        "bar_availability": "Yes",
+        "valet_parking": "Parking Assistance",
+        "baby_chair": "No",
+        "lift_availability": "Yes",
+        "pdr_availability": "Yes",
+        "pdr_capacity": 25,
+        "pdr_minimum_pax_required": 20,
+        "outlet_numbers": ["7042698057", "8130244992", "8470015488"]
+      },
+      "branch_timings": {
+        "Monday to Friday": {
+          "Lunch": {
+            "opening_time": "12.00 pm",
+            "last_entry_time": "04.00 pm",
+            "closing_time": "05.00 pm"
+          },
+          "Dinner": {
+            "opening_time": "06.30 pm",
+            "last_entry_time": "11.00 pm",
+            "closing_time": "12.00 am"
+          }
+        },
+        "Saturday": {
+          "Lunch": {
+            "opening_time": "12.00 pm",
+            "last_entry_time": "04.00 pm",
+            "closing_time": "05.00 pm"
+          },
+          "Dinner": {
+            "opening_time": "06.30 pm",
+            "last_entry_time": "11.00 pm",
+            "closing_time": "12.00 am"
+          }
+        },
+        "Sunday": {
+          "Lunch": {
+            "opening_time": "12.00 pm",
+            "last_entry_time": "04.00 pm",
+            "closing_time": "05.00 pm"
+          },
+          "Dinner": {
+            "opening_time": "06.30 pm",
+            "last_entry_time": "11.00 pm",
+            "closing_time": "12.00 am"
+          }
+        }
+      },
+      "additional_info": {
+        "complimentary_drinks": "Lunch: Monday to Friday / 1 Round / Soft drink or Mocktail",
+        "food_festival": "No"
+      },
+      "nearest_outlets": [
+        {
+          "name": "New Friends Colony",
+          "distance": "13 km",
+          "address": "Shop No 57A, 1st Floor, Community Center, near Modi Enterprises, New Friends Colony, New Delhi, Delhi 110025"
+        }
+      ],
+      "offers": {
+        "early_bird": "No",
+        "kitty_party": "No",
+        "student_offer": "No",
+        "5+1_buffet": "No",
+        "army_offer": "No",
+        "drinks_offer": "No"
+      }
+    }
+  ]
+}

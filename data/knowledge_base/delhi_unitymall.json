@@ -1,0 +1,114 @@
+{
+  "city": "New Delhi",
+  "branches": [
+    {
+      "name": "Unity Mall, Janakpuri",
+      "modified_on": "2025-03-12T14:09:00",
+      "special_notice": "Holi notice: 14th March - Lunch closed, Dinner open. Suggest dinner for any booking.",
+      "booking_instructions": {
+        "Monday": {
+          "2+1": "Flexible till last entry",
+          "3 & Above": "Flexible till last entry"
+        },
+        "Tuesday": {
+          "2+1": "Flexible till last entry",
+          "3 & Above": "Flexible till last entry"
+        },
+        "Wednesday": {
+          "2+1": "Flexible till last entry",
+          "3 & Above": "Flexible till last entry"
+        },
+        "Thursday": {
+          "2+1": "Flexible till last entry",
+          "3 & Above": "Flexible till last entry"
+        },
+        "Friday": {
+          "2+1": "Flexible till last entry",
+          "3 & Above": "Flexible till last entry"
+        },
+        "Saturday": {
+          "2+1": "Flexible till last entry",
+          "3 & Above": "Flexible till last entry"
+        },
+        "Sunday": {
+          "2+1": "Flexible till last entry",
+          "3 & Above": "Flexible till last entry"
+        }
+      },
+      "branch_info": {
+        "address": "Unity One, 2nd Floor, Narang Colony, Chander Nagar, Janakpuri, New Delhi, Delhi 110058",
+        "landmark": "Narang Colony, Chander Nagar, Janakpuri",
+        "bar_availability": "Yes",
+        "valet_parking": "Self / Mall Parking / Chargeable",
+        "baby_chair": "No",
+        "lift_availability": "Yes",
+        "pdr_availability": "No",
+        "pdr_capacity": "No",
+        "pdr_minimum_pax_required": "No",
+        "outlet_numbers": ["9810445315", "9311177719", "7827935431"]
+      },
+      "branch_timings": {
+        "Monday to Friday": {
+          "Lunch": {
+            "opening_time": "12:00 PM",
+            "last_entry_time": "04:00 PM",
+            "closing_time": "05:00 PM"
+          },
+          "Dinner": {
+            "opening_time": "06:00 PM",
+            "last_entry_time": "11:00 PM",
+            "closing_time": "12:00 AM"
+          }
+        },
+        "Saturday": {
+          "Lunch": {
+            "opening_time": "12:00 PM",
+            "last_entry_time": "04:00 PM",
+            "closing_time": "05:00 PM"
+          },
+          "Dinner": {
+            "opening_time": "06:00 PM",
+            "last_entry_time": "11:00 PM",
+            "closing_time": "12:00 AM"
+          }
+        },
+        "Sunday": {
+          "Lunch": {
+            "opening_time": "12:00 PM",
+            "last_entry_time": "04:00 PM",
+            "closing_time": "05:00 PM"
+          },
+          "Dinner": {
+            "opening_time": "06:00 PM",
+            "last_entry_time": "11:00 PM",
+            "closing_time": "12:00 AM"
+          }
+        }
+      },
+      "additional_info": {
+        "complimentary_drinks": "Lunch / Monday to Friday / 1 Round / Soft drink or Mocktail",
+        "food_festival": "No"
+      },
+      "nearest_outlets": [
+        {
+          "name": "Rajouri Garden",
+          "distance": "6.3 km",
+          "address": "A2/41, 3rd Floor, Rajouri Garden, New Delhi 110027"
+        },
+        {
+          "name": "Paschim Vihar",
+          "distance": "7.8 km",
+          "address": "3rd floor, Emaya Mall, New Delhi-110063"
+        }
+      ],
+      "offers": {
+        "early_bird": "No",
+        "kitty_party": "Refer Kitty Offer Tab",
+        "student_offer": "Refer Student Offer Tab",
+        "5+1_buffet": "No",
+        "army_offer": "No",
+        "drinks_offer": "No"
+      }
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+	"city": "Bangalore",
+	"branches": [
+		{
+			"name": "Indiranagar",
+			"modified_on": "Mon, 30 Sep 2024 12:19 PM",
+			"special_notice": "2nd Oct outlet closed for full day due to Gandhi Jayanthi. Suggest nearby location.",
+			"booking_instructions": {
+				"Monday": {
+					"2+1": "Flexible Take till last entry.",
+					"3 & Above": "Flexible Take till last entry."
+				},
+				"Tuesday": {
+					"2+1": "Flexible Take till last entry.",
+					"3 & Above": "Flexible Take till last entry."
+				},
+				"Wednesday": {
+					"2+1": "Flexible Take till last entry.",
+					"3 & Above": "Flexible Take till last entry."
+				},
+				"Thursday": {
+					"2+1": "Flexible Take till last entry.",
+					"3 & Above": "Flexible Take till last entry."
+				},
+				"Friday": {
+					"2+1": "Flexible Take till last entry.",
+					"3 & Above": "Flexible Take till last entry."
+				},
+				"Saturday": {
+					"2+1": "Flexible Take till last entry.",
+					"3 & Above": "Flexible Take till last entry."
+				},
+				"Sunday": {
+					"2+1": "Flexible Take till last entry.",
+					"3 & Above": "Flexible Take till last entry."
+				}
+			},
+			"branch_info": {
+				"address": "No.4005, HAL 2nd stage, 100 Feet Road, Indiranagar, Bangalore - 560038",
+				"bar_availability": "Yes",
+				"valet_parking": "Yes",
+				"baby_chair": "Yes",
+				"lift_availability": "Yes",
+				"pdr_availability": "No",
+				"pdr_capacity": "No",
+				"pdr_minimum_pax_required": "No",
+				"outlet_numbers": ["7892263996", "7090757068"]
+			},
+			"branch_timings": {
+				"Monday to Friday": {
+					"Lunch": {
+						"opening_time": "12:00 pm",
+						"last_entry_time": "04:00 pm",
+						"closing_time": "05:00 pm"
+					},
+					"Dinner": {
+						"opening_time": "06:30 pm",
+						"last_entry_time": "11:00 pm",
+						"closing_time": "11:55 pm"
+					}
+				},
+				"Saturday": {
+					"Lunch": {
+						"opening_time": "12:00 pm",
+						"last_entry_time": "04:00 pm",
+						"closing_time": "05:00 pm"
+					},
+					"Dinner": {
+						"opening_time": "06:30 pm",
+						"last_entry_time": "11:00 pm",
+						"closing_time": "11:55 pm"
+					}
+				},
+				"Sunday": {
+					"Lunch": {
+						"opening_time": "11:00 am",
+						"last_entry_time": "04:00 pm",
+						"closing_time": "05:00 pm"
+					},
+					"Dinner": {
+						"opening_time": "06:30 pm",
+						"last_entry_time": "11:00 pm",
+						"closing_time": "11:55 pm"
+					}
+				}
+			},
+			"additional_info": {
+				"complimentary_drinks": "1 round of soft drink or mocktail with lunch (Monday to Saturday)",
+				"food_festival": "No"
+			},
+			"nearest_outlets": [
+				{
+					"name": "Koramangala 7th Block",
+					"distance": "5.8 km",
+					"address": "118, 1st Floor, 80 Feet Rd, KHB Colony, 7th Block, Koramangala, Bengaluru"
+				},
+				{
+					"name": "Lido Mall, MG Road",
+					"distance": "4.1 km",
+					"address": "1/4, Ground Floor, Lido Mall, Swami Vivekananda Road, Halasuru, Bengaluru, Karnataka 560008, India"
+				}
+			],
+			"offers": {
+				"early_bird": "No",
+				"kitty_party": "No",
+				"student_offer": "No",
+				"5+1_buffet": "No",
+				"army_offer": "No",
+				"drinks_offer": "No"
+			}
+		}
+	]
+}

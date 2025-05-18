@@ -1,0 +1,20 @@
+I'll help you make a new booking. Please provide the following details:
+
+1. Which location would you like to book? (Delhi or Bangalore)
+2. What date would you like to visit?
+3. What time would you prefer?
+4. How many people will be dining?
+
+Please provide these details one by one, and I'll help you complete your booking.
+
+{% if user_input == "1" %}
+  Great! You're booking for {{ location }}. Now, please tell me what date you'd like to visit.
+{% elif user_input == "2" %}
+  Thanks for the date! What time would you prefer to book for your visit?
+{% elif user_input == "3" %}
+  Got it! Please let me know how many people will be dining.
+{% elif user_input == "4" %}
+  Perfect! Your booking details are all set. I'll confirm your reservation shortly.
+{% else %}
+  I'm sorry, I didn't quite catch that. Could you please provide the details one at a time?
+{% endif %}

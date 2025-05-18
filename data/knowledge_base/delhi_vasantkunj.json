@@ -1,0 +1,112 @@
+{
+  "city": "New Delhi",
+  "branches": [
+    {
+      "name": "Sector C, Vasant Kunj",
+      "modified_on": "Thu, 24 Oct 2024 11:31 AM",
+      "special_notice": "27th Oct Dinner closed due to bulk booking. Slots closed: Dinner Slot-1, Dinner Slot-2. Suggest nearest outlet.",
+      "booking_instructions": {
+        "Monday": {
+          "2+1": "Flexible, take till last entry",
+          "3 & Above": "Flexible, take till last entry"
+        },
+        "Tuesday": {
+          "2+1": "Flexible, take till last entry",
+          "3 & Above": "Flexible, take till last entry"
+        },
+        "Wednesday": {
+          "2+1": "Flexible, take till last entry",
+          "3 & Above": "Flexible, take till last entry"
+        },
+        "Thursday": {
+          "2+1": "Flexible, take till last entry",
+          "3 & Above": "Flexible, take till last entry"
+        },
+        "Friday": {
+          "2+1": "Flexible, take till last entry",
+          "3 & Above": "Flexible, take till last entry"
+        },
+        "Saturday": {
+          "2+1": "Flexible, take till last entry",
+          "3 & Above": "Flexible, take till last entry"
+        },
+        "Sunday": {
+          "2+1": "Flexible, take till last entry",
+          "3 & Above": "Flexible, take till last entry"
+        }
+      },
+      "branch_info": {
+        "address": "Plot No. 11, Local Shopping Center, Pyramid Building, Pocket 7, Sector C, Vasant Kunj, New Delhi, Delhi 110070",
+        "bar_availability": "Not specified",
+        "valet_parking": "Yes",
+        "baby_chair": "No",
+        "lift_availability": "No",
+        "pdr_availability": "No",
+        "pdr_capacity": "No",
+        "pdr_minimum_pax_required": "No",
+        "outlet_numbers": ["9717455633", "9717466433", "7303094054"]
+      },
+      "branch_timings": {
+        "Monday to Friday": {
+          "Lunch": {
+            "opening_time": "12:00 PM",
+            "last_entry_time": "04:00 PM",
+            "closing_time": "05:00 PM"
+          },
+          "Dinner": {
+            "opening_time": "06:00 PM",
+            "last_entry_time": "11:00 PM",
+            "closing_time": "12:00 AM"
+          }
+        },
+        "Saturday": {
+          "Lunch": {
+            "opening_time": "12:00 PM",
+            "last_entry_time": "04:00 PM",
+            "closing_time": "05:00 PM"
+          },
+          "Dinner": {
+            "opening_time": "06:00 PM",
+            "last_entry_time": "11:00 PM",
+            "closing_time": "12:00 AM"
+          }
+        },
+        "Sunday": {
+          "Lunch": {
+            "opening_time": "12:00 PM",
+            "last_entry_time": "04:00 PM",
+            "closing_time": "05:00 PM"
+          },
+          "Dinner": {
+            "opening_time": "06:00 PM",
+            "last_entry_time": "11:00 PM",
+            "closing_time": "12:00 AM"
+          }
+        }
+      },
+      "additional_info": {
+        "complimentary_drinks": "Lunch / Monday to Friday / 1 Round / Soft drink or Mocktail",
+        "food_festival": "No"
+      },
+      "nearest_outlets": [
+        {
+          "name": "New Friends Colony",
+          "distance": "13 km",
+          "address": "Shop No 57A, 1st Floor, Community Center, near Modi Enterprises, New Friends Colony, New Delhi, Delhi 110025"
+        }
+      ],
+      "offers": {
+        "early_bird": {
+          "status": "Yes",
+          "applicable_days": ["Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+          "time": "06:00 PM to 06:30 PM"
+        },
+        "kitty_party": "Yes",
+        "student_offer": "Yes",
+        "5+1_buffet": "No",
+        "army_offer": "No",
+        "drinks_offer": "No"
+      }
+    }
+  ]
+}

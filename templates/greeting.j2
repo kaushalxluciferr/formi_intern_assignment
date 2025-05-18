@@ -1,0 +1,20 @@
+Welcome to Barbeque Nation! I'm your virtual assistant. I can help you with:
+
+1. Making a new booking
+2. Modifying an existing booking
+3. Canceling a booking
+4. Answering questions about our restaurants
+
+What would you like to do today?
+
+{% if user_input == "1" %}
+  You're ready to make a new booking! Let's get started with the details.
+{% elif user_input == "2" %}
+  Let's modify your existing booking. Please provide the necessary details.
+{% elif user_input == "3" %}
+  You're about to cancel your booking. Please confirm the booking details.
+{% elif user_input == "4" %}
+  I'm here to answer any questions about our restaurants! What would you like to know?
+{% else %}
+  I'm sorry, I didn't understand that. Could you please choose one of the options listed above?
+{% endif %}

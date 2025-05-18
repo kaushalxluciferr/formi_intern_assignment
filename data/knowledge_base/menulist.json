@@ -1,0 +1,163 @@
+{
+  "city": "Bangalore",
+  "branches": [
+    {
+      "name": "Electronic City",
+      "modified_on": "Fri, 20 May 2022 3:35 AM",
+      "special_notice": "",
+      "booking_instructions": {
+        "Monday": {
+          "2+1": "",
+          "3 & Above": ""
+        },
+        "Tuesday": {
+          "2+1": "",
+          "3 & Above": ""
+        },
+        "Wednesday": {
+          "2+1": "",
+          "3 & Above": ""
+        },
+        "Thursday": {
+          "2+1": "",
+          "3 & Above": ""
+        },
+        "Friday": {
+          "2+1": "",
+          "3 & Above": ""
+        },
+        "Saturday": {
+          "2+1": "",
+          "3 & Above": ""
+        },
+        "Sunday": {
+          "2+1": "",
+          "3 & Above": ""
+        }
+      },
+      "branch_info": {
+        "address": "",
+        "bar_availability": "",
+        "valet_parking": "",
+        "baby_chair": "",
+        "lift_availability": "",
+        "pdr_availability": "",
+        "pdr_capacity": "",
+        "pdr_minimum_pax_required": "",
+        "outlet_numbers": []
+      },
+      "branch_timings": {
+        "Monday to Friday": {
+          "Lunch": {
+            "opening_time": "",
+            "last_entry_time": "",
+            "closing_time": ""
+          },
+          "Dinner": {
+            "opening_time": "",
+            "last_entry_time": "",
+            "closing_time": ""
+          }
+        },
+        "Saturday": {
+          "Lunch": {
+            "opening_time": "",
+            "last_entry_time": "",
+            "closing_time": ""
+          },
+          "Dinner": {
+            "opening_time": "",
+            "last_entry_time": "",
+            "closing_time": ""
+          }
+        },
+        "Sunday": {
+          "Lunch": {
+            "opening_time": "",
+            "last_entry_time": "",
+            "closing_time": ""
+          },
+          "Dinner": {
+            "opening_time": "",
+            "last_entry_time": "",
+            "closing_time": ""
+          }
+        }
+      },
+      "additional_info": {
+        "complimentary_drinks": "",
+        "food_festival": ""
+      },
+      "nearest_outlets": [],
+      "offers": {
+        "early_bird": "",
+        "kitty_party": "",
+        "student_offer": "",
+        "5+1_buffet": "",
+        "army_offer": "",
+        "drinks_offer": ""
+      },
+      "menu": {
+        "veg": {
+          "starters": [
+            "Grill Veg",
+            "Mushroom",
+            "Paneer",
+            "Veg Kebab",
+            "Cajun Spice Potato",
+            "Pineapple"
+          ],
+          "main_course": [
+            "Noodles",
+            "Oriental Veg",
+            "Paneer",
+            "Aloo",
+            "Veg Kofta",
+            "Veg Dry & Gravy",
+            "Dal Tadka",
+            "Dal Makhani",
+            "Veg Biryani",
+            "Rice"
+          ],
+          "soups": [
+            "Veg Soup"
+          ],
+          "salads": [
+            "Veg - 4 varieties"
+          ]
+        },
+        "non_veg": {
+          "starters": [
+            "Chicken Tangdi",
+            "Chicken Skewer",
+            "Mutton",
+            "Fish",
+            "Prawns"
+          ],
+          "main_course": [
+            "Non Veg Biryani",
+            "Mutton Curry",
+            "Chicken Curry",
+            "Fish Gravy"
+          ],
+          "soups": [
+            "Non Veg Soup"
+          ],
+          "salads": [
+            "Non Veg Salad"
+          ]
+        },
+        "desserts": [
+          "Angoori Gulab Jamun",
+          "Phirnee",
+          "Ice Cream",
+          "Pie/Tart",
+          "Fruits",
+          "Pastry",
+          "Brownie",
+          "Pudding/Soufflé"
+        ]
+      }
+    }
+  ]
+}
