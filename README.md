@@ -1,20 +1,19 @@
-# BBQ Nation
+# BBQ Nation Assignment
 # kaushal Kishor Rauniyar
 # 22054382
 # 22054382@kiit.ac.in
 
-
+# Explanation
 This project is a FastAPI-based backend API that serves information about BBQ Nation branches, menus, offers, and other relevant data. It supports querying by city, branch, and categories like menu, timings, booking instructions, etc.
 
 ## Features
-
-* Get a list of available properties (cities)
-* Fetch branch details by name
-* Fetch all branches in a city (e.g., Delhi, Bangalore)
-* Query knowledge base by category or property
-* Support for normalized city names (e.g., "New Delhi" resolves to "Delhi")
-* Menu data integrated via JSON files
-* Token length management for response trimming
+-> Get a list of available properties (cities)
+-> Fetch branch details by name
+-> Fetch all branches in a city (e.g., Delhi, Bangalore)
+-> Query knowledge base by category or property
+-> Support for normalized city names (e.g., "New Delhi" resolves to "Delhi")
+-> Menu data integrated via JSON files
+-> Token length management for response trimming
 
 ## Project Structure
 

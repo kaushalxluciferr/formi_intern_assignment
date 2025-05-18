@@ -6,7 +6,7 @@ import json
 router = APIRouter()
 
 CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
-DATA_PATH = os.path.join(os.path.dirname(os.path.dirname(CURRENT_DIR)), "data", "knowledge_base")
+DATA_PATH = os.path.join(os.path.dirname(os.path.dirname(CURRENT_DIR)),"data","knowledge_base")
 
 @router.get("/cities/{city_name}", response_model=CityData)
 async def get_city_data(city_name: str):
